@@ -1,0 +1,4 @@
+This project implement a k-means cluster.
+clusters.py: the k-means cluster implementation
+data.py: three data set implementation
+task.py: some test for the cluster
